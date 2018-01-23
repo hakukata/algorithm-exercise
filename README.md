@@ -5,6 +5,8 @@
 [![Slack Status](https://slackin4ds-algo.herokuapp.com/badge.svg)](https://slackin4ds-algo.herokuapp.com/)
 [![Chat on Slack](https://img.shields.io/badge/chat-on_slack-orange.svg)](https://ds-algo.slack.com/)
 
+> 本开源书 forked from [数据结构与算法/leetcode/lintcode题解](https://github.com/billryan/algorithm-exercise)，作者为 [billryan](https://github.com/billryan)，欢迎大家 star 原作者的 [repo](https://github.com/billryan/algorithm-exercise)，以便获得最新更新，谢谢！
+
 - English via [Data Structure and Algorithm notes](http://algorithm.yuanbin.me/en/index.html)
 - 简体中文请戳 [数据结构与算法/leetcode/lintcode题解](http://algorithm.yuanbin.me/zh-hans/index.html)
 - 繁體中文請瀏覽 [資料結構與演算法/leetcode/lintcode題解](http://algorithm.yuanbin.me/zh-tw/index.html)
